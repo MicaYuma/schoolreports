@@ -4,3 +4,4 @@
 
 layout: home
 ---
+Hier werden die Ergebnisse der Studierenden festgehalten und präsentiert.
