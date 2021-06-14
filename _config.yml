@@ -18,14 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Sachtexte zur Digitalen Kommunikation
+title: Liebeskommunikation im digitalen Zeitalter
 email: m1ca.yum4@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hier entstehen Texte welche sich mit dem Thema "Liebeskommunikation im digitalen Zeitalter" beschäftigen.
+  Dieser Internet auftritt dient den Studierenden, die sich mit dem Thema befassen, sich dies gegenseitig zu präsentieren.
 url: "https://micayuma.github.io/schoolreports/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ""
+twitter_username: "yumamica"
 github_username:  micayuma
 
 # Build settings

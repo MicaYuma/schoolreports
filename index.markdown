@@ -4,4 +4,5 @@
 
 layout: home
 ---
+Thema: Liebeskommunikation im digitalen Zeitalter
 Hier werden die Ergebnisse der Studierenden festgehalten und präsentiert.
