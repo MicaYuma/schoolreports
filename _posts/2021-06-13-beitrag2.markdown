@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "test!"
+title:  "Liebeskommunikation <3"
 date:   2021-06-13 20:46:20 +0200
-categories: beitrag digitale kommunikation
+categories: Liebeskommunikation
 ---
-Ein einfacher Test
+Hier entsteht ein Text
